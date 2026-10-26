@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "run_at_utc": "2026-10-26T13:18:18.428121+00:00",
+  "command": "python -B 2989_验收测试.py --report 2989_测试结果.json",
+  "tests_run": 27,
+  "passed": 27,
+  "failures": 0,
+  "errors": 0,
+  "skipped": 0,
+  "successful": true,
+  "elapsed_seconds": 1.81931,
+  "per_test": [
+    {
+      "test": "test_01_full_48_sheet_json_model_all_1540_source_statuses",
+      "status": "passed",
+      "elapsed_seconds": 0.10173
+    },
+    {
+      "test": "test_02_every_physical_row_has_exactly_one_source_ledger_record",
+      "status": "passed",
+      "elapsed_seconds": 0.08315
+    },
+    {
+      "test": "test_03_known_aliases_reorder_and_unicode_header_whitespace",
+      "status": "passed",
+      "elapsed_seconds": 0.001129
+    },
+    {
+      "test": "test_04_turkish_title_preserves_dotted_and_dotless_letters",
+      "status": "passed",
+      "elapsed_seconds": 0.002111
+    },
+    {
+      "test": "test_05_explicit_and_native_dates_are_exact",
+      "status": "passed",
+      "elapsed_seconds": 0.000987
+    },
+    {
+      "test": "test_06_ambiguous_day_month_dates_never_guessed",
+      "status": "passed",
+      "elapsed_seconds": 0.000959
+    },
+    {
+      "test": "test_07_invalid_and_unmarked_numeric_dates_are_rejected",
+      "status": "passed",
+      "elapsed_seconds": 0.001009
+    },
+    {
+      "test": "test_08_explicit_usd_price_styles_and_bare_opt_in",
+      "status": "passed",
+      "elapsed_seconds": 0.001079
+    },
+    {
+      "test": "test_09_default_bare_currency_is_review_instead_of_assumed",
+      "status": "passed",
+      "elapsed_seconds": 0.001152
+    },
+    {
+      "test": "test_10_negative_non_usd_nonfinite_and_fractional_cent_prices_reject",
+      "status": "passed",
+      "elapsed_seconds": 0.001533
+    },
+    {
+      "test": "test_11_same_id_equivalent_records_keep_earliest_source",
+      "status": "passed",
+      "elapsed_seconds": 0.001875
+    },
+    {
+      "test": "test_12_same_id_conflict_or_bad_member_reviews_entire_group",
+      "status": "passed",
+      "elapsed_seconds": 0.002209
+    },
+    {
+      "test": "test_13_missing_id_unique_is_valid_but_same_identity_all_review",
+      "status": "passed",
+      "elapsed_seconds": 0.001681
+    },
+    {
+      "test": "test_14_nonpositive_nights_missing_fields_and_rate_mismatch_review",
+      "status": "passed",
+      "elapsed_seconds": 0.001526
+    },
+    {
+      "test": "test_15_unknown_and_duplicate_alias_headers_do_not_silently_skip_rows",
+      "status": "passed",
+      "elapsed_seconds": 0.001216
+    },
+    {
+      "test": "test_16_later_changed_header_mapping_reviews_whole_sheet",
+      "status": "passed",
+      "elapsed_seconds": 0.001068
+    },
+    {
+      "test": "test_17_notes_titles_blanks_headers_and_totals_are_accounted",
+      "status": "passed",
+      "elapsed_seconds": 0.001248
+    },
+    {
+      "test": "test_18_real_booking_named_total_is_not_discarded",
+      "status": "passed",
+      "elapsed_seconds": 0.001744
+    },
+    {
+      "test": "test_19_formula_string_is_audited_and_never_evaluated",
+      "status": "passed",
+      "elapsed_seconds": 0.001462
+    },
+    {
+      "test": "test_20_optional_identifier_and_notes_extra_column_preservation",
+      "status": "passed",
+      "elapsed_seconds": 0.001625
+    },
+    {
+      "test": "test_21_cross_month_full_price_assigned_to_checkin_month",
+      "status": "passed",
+      "elapsed_seconds": 0.001398
+    },
+    {
+      "test": "test_22_global_shape_and_capacity_limits_reject",
+      "status": "passed",
+      "elapsed_seconds": 0.001578
+    },
+    {
+      "test": "test_23_real_sdk_xlsx_full_oracle_native_dates_and_source_hash",
+      "status": "passed",
+      "elapsed_seconds": 0.853488
+    },
+    {
+      "test": "test_24_existing_empty_and_occupied_outputs_never_changed",
+      "status": "passed",
+      "elapsed_seconds": 0.006065
+    },
+    {
+      "test": "test_25_write_failure_and_external_source_change_do_not_publish",
+      "status": "passed",
+      "elapsed_seconds": 0.470136
+    },
+    {
+      "test": "test_26_unsupported_extensions_macro_and_external_link_preflight",
+      "status": "passed",
+      "elapsed_seconds": 0.012749
+    },
+    {
+      "test": "test_27_actual_windows_junction_input_and_output_paths_rejected",
+      "status": "passed",
+      "elapsed_seconds": 0.033341
+    }
+  ],
+  "environment": {
+    "python": "3.12.8",
+    "implementation": "CPython",
+    "system": "Windows",
+    "release": "11"
+  },
+  "code_sha256": {
+    "2989_合并引擎.py": "14582ae07eb8f5fde01ef91c16a54efe11d59e34cec4dda8d0bcaf4714c409b5",
+    "2989_演示数据.py": "f46ed804491f1310f5fea49e00d090ae796c878314c5ea2cae608048ccafdabf",
+    "2989_验收测试.py": "5df81bc19f8bcfe247e0419948c32bfefa49f3341bb72e4aef8f3e4cd3147d22"
+  },
+  "code_unchanged_during_tests": true,
+  "source_xlsx_sha256": "aa25472dd9be768f5f9a2bee684f7f0137e17cad48d0c0fcfd658521e92bc8a6",
+  "independent_source_model_verification": {
+    "accepted_rows": 1430,
+    "review_rows": 80,
+    "duplicate_rows": 30,
+    "input_order_rows": 1540,
+    "verified_accepted_records": 1430,
+    "verified_physical_rows": 1782,
+    "verified_summary_periods": 52,
+    "expected_model_physical_rows": 1777,
+    "style_only_extra_blank_rows": 5,
+    "total_revenue_usd": 171600,
+    "all_source_statuses_match": true,
+    "all_accepted_fields_match": true,
+    "all_month_year_totals_match": true,
+    "source_xlsx_sha256": "aa25472dd9be768f5f9a2bee684f7f0137e17cad48d0c0fcfd658521e92bc8a6"
+  },
+  "workbook_authorship": "Tests do not create XLSX. Actual workbook authored by the separate project JS builder; openpyxl used read-only.",
+  "expected_demo_counts": {
+    "sheets": 48,
+    "input_order_rows": 1540,
+    "accepted": 1430,
+    "review": 80,
+    "duplicate": 30,
+    "revenue_usd": 171600
+  }
+}

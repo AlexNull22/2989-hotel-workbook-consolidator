@@ -1,0 +1,322 @@
+{
+  "source": {
+    "status": "passed",
+    "mode": "source",
+    "source_sheets": 48,
+    "source_raw_rows": 1777,
+    "previews": [
+      {
+        "sheet": "2989_2023-01",
+        "range": "A1:G8",
+        "filename": "2989_01_2023-01预览.png"
+      },
+      {
+        "sheet": "2989_2023-02",
+        "range": "A1:G8",
+        "filename": "2989_02_2023-02预览.png"
+      },
+      {
+        "sheet": "2989_2023-03",
+        "range": "A1:G8",
+        "filename": "2989_03_2023-03预览.png"
+      },
+      {
+        "sheet": "2989_2023-04",
+        "range": "A1:G8",
+        "filename": "2989_04_2023-04预览.png"
+      },
+      {
+        "sheet": "2989_2023-05",
+        "range": "A1:G8",
+        "filename": "2989_05_2023-05预览.png"
+      },
+      {
+        "sheet": "2989_2023-06",
+        "range": "A1:G8",
+        "filename": "2989_06_2023-06预览.png"
+      },
+      {
+        "sheet": "2989_2023-07",
+        "range": "A1:G8",
+        "filename": "2989_07_2023-07预览.png"
+      },
+      {
+        "sheet": "2989_2023-08",
+        "range": "A1:G8",
+        "filename": "2989_08_2023-08预览.png"
+      },
+      {
+        "sheet": "2989_2023-09",
+        "range": "A1:G8",
+        "filename": "2989_09_2023-09预览.png"
+      },
+      {
+        "sheet": "2989_2023-10",
+        "range": "A1:G8",
+        "filename": "2989_10_2023-10预览.png"
+      },
+      {
+        "sheet": "2989_2023-11",
+        "range": "A1:G8",
+        "filename": "2989_11_2023-11预览.png"
+      },
+      {
+        "sheet": "2989_2023-12",
+        "range": "A1:G8",
+        "filename": "2989_12_2023-12预览.png"
+      },
+      {
+        "sheet": "2989_2024-01",
+        "range": "A1:G8",
+        "filename": "2989_13_2024-01预览.png"
+      },
+      {
+        "sheet": "2989_2024-02",
+        "range": "A1:G8",
+        "filename": "2989_14_2024-02预览.png"
+      },
+      {
+        "sheet": "2989_2024-03",
+        "range": "A1:G8",
+        "filename": "2989_15_2024-03预览.png"
+      },
+      {
+        "sheet": "2989_2024-04",
+        "range": "A1:G8",
+        "filename": "2989_16_2024-04预览.png"
+      },
+      {
+        "sheet": "2989_2024-05",
+        "range": "A1:G8",
+        "filename": "2989_17_2024-05预览.png"
+      },
+      {
+        "sheet": "2989_2024-06",
+        "range": "A1:G8",
+        "filename": "2989_18_2024-06预览.png"
+      },
+      {
+        "sheet": "2989_2024-07",
+        "range": "A1:G8",
+        "filename": "2989_19_2024-07预览.png"
+      },
+      {
+        "sheet": "2989_2024-08",
+        "range": "A1:G8",
+        "filename": "2989_20_2024-08预览.png"
+      },
+      {
+        "sheet": "2989_2024-09",
+        "range": "A1:G8",
+        "filename": "2989_21_2024-09预览.png"
+      },
+      {
+        "sheet": "2989_2024-10",
+        "range": "A1:G8",
+        "filename": "2989_22_2024-10预览.png"
+      },
+      {
+        "sheet": "2989_2024-11",
+        "range": "A1:G8",
+        "filename": "2989_23_2024-11预览.png"
+      },
+      {
+        "sheet": "2989_2024-12",
+        "range": "A1:G8",
+        "filename": "2989_24_2024-12预览.png"
+      },
+      {
+        "sheet": "2989_2025-01",
+        "range": "A1:G8",
+        "filename": "2989_25_2025-01预览.png"
+      },
+      {
+        "sheet": "2989_2025-02",
+        "range": "A1:G8",
+        "filename": "2989_26_2025-02预览.png"
+      },
+      {
+        "sheet": "2989_2025-03",
+        "range": "A1:G8",
+        "filename": "2989_27_2025-03预览.png"
+      },
+      {
+        "sheet": "2989_2025-04",
+        "range": "A1:G8",
+        "filename": "2989_28_2025-04预览.png"
+      },
+      {
+        "sheet": "2989_2025-05",
+        "range": "A1:G8",
+        "filename": "2989_29_2025-05预览.png"
+      },
+      {
+        "sheet": "2989_2025-06",
+        "range": "A1:G8",
+        "filename": "2989_30_2025-06预览.png"
+      },
+      {
+        "sheet": "2989_2025-07",
+        "range": "A1:G8",
+        "filename": "2989_31_2025-07预览.png"
+      },
+      {
+        "sheet": "2989_2025-08",
+        "range": "A1:G8",
+        "filename": "2989_32_2025-08预览.png"
+      },
+      {
+        "sheet": "2989_2025-09",
+        "range": "A1:G8",
+        "filename": "2989_33_2025-09预览.png"
+      },
+      {
+        "sheet": "2989_2025-10",
+        "range": "A1:G8",
+        "filename": "2989_34_2025-10预览.png"
+      },
+      {
+        "sheet": "2989_2025-11",
+        "range": "A1:G8",
+        "filename": "2989_35_2025-11预览.png"
+      },
+      {
+        "sheet": "2989_2025-12",
+        "range": "A1:G8",
+        "filename": "2989_36_2025-12预览.png"
+      },
+      {
+        "sheet": "2989_2026-01",
+        "range": "A1:G8",
+        "filename": "2989_37_2026-01预览.png"
+      },
+      {
+        "sheet": "2989_2026-02",
+        "range": "A1:G8",
+        "filename": "2989_38_2026-02预览.png"
+      },
+      {
+        "sheet": "2989_2026-03",
+        "range": "A1:G8",
+        "filename": "2989_39_2026-03预览.png"
+      },
+      {
+        "sheet": "2989_2026-04",
+        "range": "A1:G8",
+        "filename": "2989_40_2026-04预览.png"
+      },
+      {
+        "sheet": "2989_2026-05",
+        "range": "A1:G8",
+        "filename": "2989_41_2026-05预览.png"
+      },
+      {
+        "sheet": "2989_2026-06",
+        "range": "A1:G8",
+        "filename": "2989_42_2026-06预览.png"
+      },
+      {
+        "sheet": "2989_2026-07",
+        "range": "A1:G8",
+        "filename": "2989_43_2026-07预览.png"
+      },
+      {
+        "sheet": "2989_2026-08",
+        "range": "A1:G8",
+        "filename": "2989_44_2026-08预览.png"
+      },
+      {
+        "sheet": "2989_2026-09",
+        "range": "A1:G8",
+        "filename": "2989_45_2026-09预览.png"
+      },
+      {
+        "sheet": "2989_2026-10",
+        "range": "A1:G8",
+        "filename": "2989_46_2026-10预览.png"
+      },
+      {
+        "sheet": "2989_2026-11",
+        "range": "A1:G8",
+        "filename": "2989_47_2026-11预览.png"
+      },
+      {
+        "sheet": "2989_2026-12_NOTLAR",
+        "range": "A1:A8",
+        "filename": "2989_48_2026-12_NOTLAR预览.png"
+      }
+    ],
+    "live_recalculation_test": null,
+    "readonly_python_check": {
+      "status": "passed",
+      "cells_checked": 11815,
+      "xlsx_sha256": "aa25472dd9be768f5f9a2bee684f7f0137e17cad48d0c0fcfd658521e92bc8a6",
+      "read_only": true,
+      "native_excel_opened": false
+    },
+    "formula_error_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}",
+    "inspection": "{\"kind\":\"table\",\"sheet\":\"2989_2023-01\",\"address\":\"A1:G6\",\"rows\":6,\"cols\":7,\"values\":[[\"Rezervasyon No\",\"Ad\",\"Soyad\",\"Giriş\",\"Çıkış\",\"Fiyat\",\"Not\"],[\"2989_B0001\",\"İPEK\",\"YILMAZ\",\"2023-01-15T00:00:00.000Z\",\"16.01.2023\",40,\"2989 DEMO 0001\"],[\"2989_B0002\",\"ışık\",\"ŞAHİN\",\"16.01.2023\",\"2023-01-18\",\"USD 80\",\"2989 DEMO 0002\"],[\"2989_B0003\",\" Özge \",\"ÇELİK\",\"2023-01-17\",\"2023-01-20T00:00:00.000Z\",\"120 USD\",\"2989 DEMO 0003\"],[\"2989_B0004\",\"ÇAĞRI\",\"öztürk\",\"2023-01-18T00:00:00.000Z\",\"22.01.2023\",\"$160.00\",\"2989 DEMO 0004\"],[\"2989_B0005\",\"şule\",\"güneş\",\"19.01.2023\",\"2023-01-24\",\"USD 200,00\",\"2989 DEMO 0005\"]]}",
+    "render_completed": true,
+    "contact_sheet_visual_review_by_root": "passed",
+    "native_excel_opened": false,
+    "dependencies_provided_with_repository": false,
+    "seconds": 12.902
+  },
+  "result": {
+    "status": "passed",
+    "mode": "result",
+    "accepted": 1430,
+    "review": 80,
+    "ledger": 1782,
+    "annual_periods": 4,
+    "monthly_periods": 48,
+    "previews": [
+      {
+        "sheet": "2989_汇总",
+        "range": "A1:E25",
+        "filename": "2989_01_汇总预览.png"
+      },
+      {
+        "sheet": "2989_有效预订",
+        "range": "A1:J14",
+        "filename": "2989_02_有效预订预览.png"
+      },
+      {
+        "sheet": "2989_待复核",
+        "range": "A1:D12",
+        "filename": "2989_03_待复核预览.png"
+      },
+      {
+        "sheet": "2989_来源记录",
+        "range": "A1:D12",
+        "filename": "2989_04_来源记录预览.png"
+      }
+    ],
+    "live_recalculation_test": {
+      "price_delta_usd": 40,
+      "original_check_in": "2023-01-15",
+      "tested_check_in": "2024-01-01",
+      "all_period_formulas_updated": true,
+      "original_values_restored": true
+    },
+    "readonly_python_check": {
+      "status": "passed",
+      "cells_checked": 23714,
+      "xlsx_sha256": "d51a971730bd028917aebd4f79f7b354722b5b680a1abc7444f5f26650cd50e7",
+      "read_only": true,
+      "native_excel_opened": false
+    },
+    "formula_error_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}",
+    "inspection": "{\"kind\":\"table\",\"sheet\":\"2989_汇总\",\"address\":\"A5:C9\",\"rows\":5,\"cols\":3,\"values\":[[\"入住年度\",\"已核实预订数\",\"预订金额(USD)\"],[\"2023-01-01T00:00:00.000Z\",314,37600],[\"2024-01-01T00:00:00.000Z\",384,46040],[\"2025-01-01T00:00:00.000Z\",384,46080],[\"2026-01-01T00:00:00.000Z\",348,41880]]}",
+    "render_completed": true,
+    "contact_sheet_visual_review_by_root": "passed",
+    "native_excel_opened": false,
+    "dependencies_provided_with_repository": false,
+    "seconds": 17.797
+  },
+  "source_visual_pages": 48,
+  "result_visual_pages": 4,
+  "native_excel_opened": false,
+  "builder_sha256": "e8a98f9b809cdd40cbb30fea96face6028a714406529df00a335db965f8b7d0c",
+  "final_result_sha256": "d51a971730bd028917aebd4f79f7b354722b5b680a1abc7444f5f26650cd50e7"
+}

@@ -1,0 +1,359 @@
+{
+  "source_sha256": "aa25472dd9be768f5f9a2bee684f7f0137e17cad48d0c0fcfd658521e92bc8a6",
+  "counts": {
+    "header": 47,
+    "accepted": 1430,
+    "blank": 53,
+    "repeated_header": 47,
+    "duplicate": 30,
+    "total": 47,
+    "metadata": 48,
+    "review": 80,
+    "physical_rows": 1782,
+    "sheets": 48,
+    "booking_rows": 1540,
+    "revenue_usd": 171600
+  },
+  "sheet_details": [
+    {
+      "sheet": "2989_2023-01",
+      "physical_rows": 66,
+      "header_row": 1,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2023-02",
+      "physical_rows": 47,
+      "header_row": 2,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2023-03",
+      "physical_rows": 38,
+      "header_row": 3,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2023-04",
+      "physical_rows": 36,
+      "header_row": 1,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2023-05",
+      "physical_rows": 37,
+      "header_row": 2,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2023-06",
+      "physical_rows": 38,
+      "header_row": 3,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2023-07",
+      "physical_rows": 36,
+      "header_row": 1,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2023-08",
+      "physical_rows": 37,
+      "header_row": 2,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2023-09",
+      "physical_rows": 38,
+      "header_row": 3,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2023-10",
+      "physical_rows": 36,
+      "header_row": 1,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2023-11",
+      "physical_rows": 37,
+      "header_row": 2,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2023-12",
+      "physical_rows": 38,
+      "header_row": 3,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2024-01",
+      "physical_rows": 36,
+      "header_row": 1,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2024-02",
+      "physical_rows": 37,
+      "header_row": 2,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2024-03",
+      "physical_rows": 38,
+      "header_row": 3,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2024-04",
+      "physical_rows": 36,
+      "header_row": 1,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2024-05",
+      "physical_rows": 37,
+      "header_row": 2,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2024-06",
+      "physical_rows": 38,
+      "header_row": 3,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2024-07",
+      "physical_rows": 36,
+      "header_row": 1,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2024-08",
+      "physical_rows": 37,
+      "header_row": 2,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2024-09",
+      "physical_rows": 38,
+      "header_row": 3,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2024-10",
+      "physical_rows": 36,
+      "header_row": 1,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2024-11",
+      "physical_rows": 37,
+      "header_row": 2,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2024-12",
+      "physical_rows": 38,
+      "header_row": 3,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2025-01",
+      "physical_rows": 36,
+      "header_row": 1,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2025-02",
+      "physical_rows": 37,
+      "header_row": 2,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2025-03",
+      "physical_rows": 38,
+      "header_row": 3,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2025-04",
+      "physical_rows": 36,
+      "header_row": 1,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2025-05",
+      "physical_rows": 37,
+      "header_row": 2,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2025-06",
+      "physical_rows": 38,
+      "header_row": 3,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2025-07",
+      "physical_rows": 36,
+      "header_row": 1,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2025-08",
+      "physical_rows": 37,
+      "header_row": 2,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2025-09",
+      "physical_rows": 38,
+      "header_row": 3,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2025-10",
+      "physical_rows": 36,
+      "header_row": 1,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2025-11",
+      "physical_rows": 37,
+      "header_row": 2,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2025-12",
+      "physical_rows": 38,
+      "header_row": 3,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2026-01",
+      "physical_rows": 36,
+      "header_row": 1,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2026-02",
+      "physical_rows": 37,
+      "header_row": 2,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2026-03",
+      "physical_rows": 38,
+      "header_row": 3,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2026-04",
+      "physical_rows": 36,
+      "header_row": 1,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2026-05",
+      "physical_rows": 37,
+      "header_row": 2,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2026-06",
+      "physical_rows": 38,
+      "header_row": 3,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2026-07",
+      "physical_rows": 36,
+      "header_row": 1,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2026-08",
+      "physical_rows": 36,
+      "header_row": 2,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2026-09",
+      "physical_rows": 37,
+      "header_row": 3,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2026-10",
+      "physical_rows": 35,
+      "header_row": 1,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2026-11",
+      "physical_rows": 36,
+      "header_row": 2,
+      "recognized": true,
+      "note_only": false
+    },
+    {
+      "sheet": "2989_2026-12_NOTLAR",
+      "physical_rows": 8,
+      "header_row": null,
+      "recognized": false,
+      "note_only": true
+    }
+  ],
+  "bare_currency": "USD",
+  "nightly_rate_usd": 40,
+  "monthly_basis": "入住月归集整笔已核实预订金额，不是逐夜收入确认",
+  "source_name": "2989_自造月表.xlsx"
+}
